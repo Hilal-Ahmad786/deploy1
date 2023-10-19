@@ -1,0 +1,272 @@
+#fullpage.no-scroll {
+	overflow-y: hidden;
+	max-height: 100vh;
+}
+
+.section {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.contact-clean {
+	background:#f1f7fc;
+	padding:80px 0;
+	max-width:auto;
+	width:auto;
+	
+  }
+  
+  @media (max-width:767px) {
+	.contact-clean {
+	  padding:20px 0;
+	}
+  }
+  
+  .contact-clean form {
+	width: 1000px;
+	height: 600px;
+	margin: 80px;
+	margin-left: 400px;
+	background-image: url(1.png);
+	padding:40px;
+	border-radius:4px;
+	color:#505e6c;
+	box-shadow:1px 1px 5px rgba(0,0,0,0.1);
+	
+  }
+  
+  @media (max-width:767px) {
+	.contact-clean form {
+	  padding:30px;
+	}
+  }
+  
+  .contact-clean h2 {
+	margin-top:5px;
+	font-weight:bold;
+	font-size:28px;
+	margin-bottom:36px;
+	color:inherit;
+  }
+  
+  .contact-clean .form-group:last-child {
+	margin-bottom:5px;
+  }
+  
+  .contact-clean form .form-control {
+	background:rgb(204, 202, 202);
+	border-radius:2px;
+	box-shadow:50px 50px 50px 50px rgba(78, 77, 77, 0.05);
+	outline:none;
+	color:inherit;
+	padding-left:12px;
+	height:50px;
+	border-radius: 20px;
+  }
+  
+  .contact-clean form .form-control:focus {
+	border:1px solid #b2b2b2;
+  }
+  
+  .contact-clean form textarea.form-control {
+	min-height:100px;
+	max-height:260px;
+	padding-top:10px;
+	resize:vertical;
+	
+  }
+  
+  .contact-clean form .btn {
+	padding:16px 32px;
+	border:none;
+	background:none;
+	box-shadow:none;
+	text-shadow:none;
+	opacity:0.9;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:13px;
+	letter-spacing:0.4px;
+	line-height:1;
+	outline:none !important;
+  }
+  
+  .contact-clean form .btn:hover {
+	opacity:1;
+  }
+  
+  .contact-clean form .btn:active {
+	transform:translateY(1px);
+  }
+  
+  .contact-clean form .btn-primary {
+	background-color:#2a2b2e !important;
+	margin-top:15px;
+	color:#fff;
+	margin-left: 380px;
+	border-radius: 10px;
+  }
+
+  .parag{
+	width: 1000px;
+	height: 200px;
+	margin: 80px;
+	margin-left: 400px;
+	background-color:#ffffff;
+	padding:40px;
+	overflow: auto;
+  }
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+	opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+	background: #3B5998;
+	color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+	background: #55ACEE;
+	color: white;
+  }
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+	opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+	background: #3B5998;
+	color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+	background: #55ACEE;
+	color: white;
+  }
+.girgir{
+	border: 1px solid red;
+	width: 230px;
+	margin-top: 700px;
+	margin-left: 20px;
+	background-color: green;
+}
+
+
+
+.section.one {
+	background-image: url(../media/1.png);
+}
+
+.section.two {
+	background-image: url(../media/4.png);
+}
+
+.section.three {
+	background-image: url(../media/4.png);
+}
+
+.section.four {
+	background-image: url(../media/111.jpg);
+}
+
+.section.five {
+	background-image: url(../media/22.png);
+}
+
+.section.six {
+	background-image: url(../media/22.png);
+}
+
+.section.seven {
+	background-image: url(../media/4.png);
+}
+
+.section__content {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 100%;
+	text-align: center;
+	text-transform: capitalize;
+	color: var(--primary-color);
+}
+
+.section__content__title {
+	font-size: 4rem;
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+.section__content__subtitle {
+	font-size: 1.5rem;
+	font-weight: 500;
+}
+
+.section__content__subtitle a {
+	color: inherit;
+}
+
+.section__content__subtitle a:hover {
+	text-decoration: underline;
+}
+
+.section__action__container {
+	position: absolute;
+	bottom: 15%;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 100%;
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.section__action__btn {
+	font-size: 1.5rem;
+	font-weight: 500;
+	padding: 1rem;
+	border-radius: 2rem;
+	flex-basis: 80%;
+	margin-bottom: 1rem;
+	text-transform: capitalize;
+}
+
+.action__btn__primary {
+	background: rgba(23, 26, 42, 0.8);
+	color: white;
+}
+
+.action__btn__secondary {
+	background: rgba(255, 255, 255, 0.65);
+	color: var(--primary-color);
+}

@@ -1,0 +1,273 @@
+.mediaViewInfo {
+    --web-view-name: Renk değiştirme ekranı;
+    --web-view-id: Renk_deitirme_ekran;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Renk_deitirme_ekran;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Renk_deitirme_ekran {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Renk değiştirme ekranı;
+    --web-view-id: Renk_deitirme_ekran;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Paint20DabsG032k {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 734.166px;
+    height: 734.166px;
+    left: -35.083px;
+    top: 500.917px;
+    overflow: visible;
+}
+#Mask_Group_2 {
+    position: absolute;
+    width: 1192px;
+    height: 686px;
+    left: 127px;
+    top: 197px;
+    overflow: visible;
+}
+#Rectangle_36 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_36 {
+    filter: drop-shadow(-5px 5px 20px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 589px;
+    height: 1140px;
+    left: 1391px;
+    top: 0px;
+}
+#n_10__Farbtne_Machen__individu {
+    left: 1459px;
+    top: 80px;
+    position: absolute;
+    overflow: visible;
+    width: 387px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgba(45,45,45,1);
+}
+#Bring_Farbe_ins_spiel_Egal_ob_ {
+    left: 1459px;
+    top: 295px;
+    position: absolute;
+    overflow: visible;
+    width: 387px;
+    height: 236px;
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(45,45,45,1);
+}
+#Group_12 {
+    position: absolute;
+    width: 314px;
+    height: 197px;
+    left: 1490px;
+    top: 634px;
+    overflow: visible;
+}
+#Ellipse_2 {
+    fill: rgba(200,200,200,1);
+}
+.Ellipse_2 {
+    filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 122px;
+    left: 0px;
+    top: 0px;
+}
+#Ellipse_12 {
+    fill: rgba(200,200,200,1);
+}
+.Ellipse_12 {
+    filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 122px;
+    left: 0px;
+    top: 135px;
+}
+#Ellipse_8 {
+    fill: rgba(200,200,200,1);
+}
+.Ellipse_8 {
+    filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 122px;
+    left: 126px;
+    top: 0px;
+}
+#Ellipse_11 {
+    fill: rgba(200,200,200,1);
+}
+.Ellipse_11 {
+    filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 122px;
+    left: 126px;
+    top: 135px;
+}
+#Ellipse_9 {
+    fill: rgba(200,200,200,1);
+}
+.Ellipse_9 {
+    filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 122px;
+    left: 252px;
+    top: 0px;
+}
+#Ellipse_10 {
+    fill: rgba(200,200,200,1);
+}
+.Ellipse_10 {
+    filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 122px;
+    height: 122px;
+    left: 252px;
+    top: 135px;
+}
+#Group_11 {
+    position: absolute;
+    width: 326px;
+    height: 210px;
+    left: 1488px;
+    top: 627px;
+    overflow: visible;
+}
+#Group_5 {
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Mask_Group_3 {
+    opacity: 1;
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_10 {
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 0px;
+    top: 136px;
+    overflow: visible;
+}
+#Mask_Group_3_ {
+    opacity: 1;
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_6 {
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 126px;
+    top: 0px;
+    overflow: visible;
+}
+#Mask_Group_3_ba {
+    opacity: 1;
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_9 {
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 126px;
+    top: 136px;
+    overflow: visible;
+}
+#Mask_Group_3_bb {
+    opacity: 1;
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_7 {
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 252px;
+    top: 0px;
+    overflow: visible;
+}
+#Mask_Group_3_bc {
+    opacity: 1;
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_8 {
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 252px;
+    top: 136px;
+    overflow: visible;
+}
+#Mask_Group_3_bd {
+    opacity: 1;
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
